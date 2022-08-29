@@ -1,0 +1,23 @@
+{
+  "name": "async-latest-videos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgecollazos/async-latest-videos.git"
+  },
+  "keywords": [],
+  "author": "Jorge Collazos <jorgecollaz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgecollazos/async-latest-videos/issues"
+  },
+  "homepage": "https://github.com/jorgecollazos/async-latest-videos#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
